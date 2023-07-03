@@ -6,3 +6,4 @@ from . import axangles  # noqa
 from . import reflections  # noqa
 from . import shears  # noqa
 from . import zooms  # noqa
+from . import utils  # noqa
